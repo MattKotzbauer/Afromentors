@@ -1,6 +1,8 @@
 # Afromentors
 Afropolitan-Powered Networking and Teaching
 
+(** have not yet uploaded code to GitHub – code can be viewed by clicking the NEAR Component Link!! **)
+
 NEAR Component Link: https://near.org/near/widget/ComponentDetailsPage?src=2b37d6181e8f5757c38b5fc7454e11ae1a3eee4cc1ca69c26fb1678dd30fddd6/widget/Afromentors
 
 Demo Link: https://near.org/2b37d6181e8f5757c38b5fc7454e11ae1a3eee4cc1ca69c26fb1678dd30fddd6/widget/Afromentors
