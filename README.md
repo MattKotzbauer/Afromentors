@@ -2,6 +2,7 @@
 Afropolitan-Powered Networking and Teaching
 
 NEAR Component Link: https://near.org/near/widget/ComponentDetailsPage?src=2b37d6181e8f5757c38b5fc7454e11ae1a3eee4cc1ca69c26fb1678dd30fddd6/widget/Afromentors
+
 Demo Link: https://near.org/2b37d6181e8f5757c38b5fc7454e11ae1a3eee4cc1ca69c26fb1678dd30fddd6/widget/Afromentors
 
 Connecting members of the Afropolitan community with relevant teachers, mentors, and seminars, Afromentors gives Afropolitan NFT holders tight-knit learning and networking opportunities while letting teachers earn compensation for their expertise.
